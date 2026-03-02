@@ -138,7 +138,7 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Fedora-294172?style=plastic&logo=fedora&logoColor=white"></a>
 &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Mint-E95420?style=plastic&logo=mint&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Mint-87CF3E?style=plastic&logo=linux-mint&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
   &emsp;
