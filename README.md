@@ -140,11 +140,7 @@
 &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Mint-87CF3E?style=plastic&logo=linux-mint&logoColor=white"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D4?style=plastic&logo=windows11&logoColor=white"></a>
 </p>
 
 <br> 
